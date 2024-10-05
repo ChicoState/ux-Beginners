@@ -5,8 +5,8 @@ Beginners is a website designed for users who need guides and tutorials for any 
 ## UX Team Members
 
 * **[Jared Duron](https://github.com/UsabilityEngineering/ux-journal-jduron1)** - Wrote methods, findings, conclusions and caveats for Phase I
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Karl Ventayen](https://github.com/UsabilityEngineering/ux-journal-kventayen)** - Wrote User Stories and Executive Summaries
+* **[Rigoberto Florian](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
 
@@ -19,10 +19,9 @@ Beginners is a website designed for users who need guides and tutorials for any 
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+- **Users:** Want to be able to access material in a way that is convienient to them
+- **Competitors:** Have the ability to charge for their services and provide resource material for the courses
+- **Initial Designs:** Focus on being able to convey available courses for students to be able access
 
 [Full phase I report](phaseI/)
 
