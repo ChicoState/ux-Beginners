@@ -1,18 +1,14 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+# Beginners
 
-# !!!Project Name!!!
-
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Beginners is a website designed for users who need guides and tutorials for any occasion. It will provide a variety of tutorials from supplementary courses, such as math and English, to hobbies/pastimes, such as playing an instrument and cooking. There will also be different levels of difficulty for these guides depending on the users preference, from beginner, intermediate, and advanced. Users will also be able to upload their own guides as well so that their knowledge can be received by those with similar passions.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[Jared Duron](https://github.com/UsabilityEngineering/ux-journal-jduron1)** - Wrote methods, findings, conclusions and caveats for Phase I
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
