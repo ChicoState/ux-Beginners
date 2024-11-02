@@ -28,6 +28,7 @@ Beginners is a website designed for users who need guides and tutorials for any 
 # Phase II: Refining interaction and designing wireframes
 
 **Executive Summary**
+
 For the second sprint of the Beginners project (Tutorial website), we created wireframes and demonstrated a prototype, which in turn gave us feedback for improvements for the application and improved fidelity (better representation of the final product). 
 
 **Informal Feedback**
