@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+In teaching various courses there are ways that it can be conveyed. When it is in an online setting there are various media it can be presented, such as video. This project seeks to be able to develop a web platform to be able to connect students to instructors of various subjects. During the last sprint time was used to develop the backend technologies for the project to handle the various media associated with the courses.
 
 ## Methods
 
