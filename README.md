@@ -28,11 +28,19 @@ Beginners is a website designed for users who need guides and tutorials for any 
 # Phase II: Refining interaction and designing wireframes
 
 **Executive Summary**
+For the second sprint of the Beginners project (Tutorial website), we created wireframes and demonstrated a prototype, which in turn gave us feedback for improvements for the application and improved fidelity (better representation of the final product). 
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+**Informal Feedback**
+- Need for better filtering system
+- Suggestion for a review system to enhance quality
+
+**Cognitive Feedback**
+- Insights from UX researchers on wireframes
+- Focus on improving user experience
+
+**Setback**
+- Feedback not aligned with target audience (general public)
+- Need for more targeted user research
 
 [Full phase II report](phaseII/)
 
