@@ -14,7 +14,11 @@ Three external evalutors (n = 3) conducted the cognitive walkthroughs for our wi
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+Informal Feedback
+We recently gathered feedback from classmates with experience in software engineering regarding ways to enhance our application. They raised several potential concerns that users might encounter while navigating the platform. First, they suggested incorporating a format filter option that allows users to select their preferred style of tutorial, which would improve the overall user experience. Additionally, a karma or review system could be implemented, enabling users to rate and highlight the best tutorials for each subject. This feature would help guide new users toward high-quality content. Another important suggestion involved establishing a method for verifying tutorial creators. This could include a system that assesses a user's trustworthiness based on the quality of their contributions, thereby providing users with more confidence in the tutorials they choose. Furthermore, allowing tutorial creators to provide contact information would facilitate communication for those interested in private lessons or having specific questions, thereby fostering a more interactive learning environment.
+
+Cognitive Walkthrough
+In terms of cross-team communication, we received valuable insights from other teams that highlighted areas for improvement. Potential users are likely to know how to search for tutorials, and the inclusion of user filters would allow for more precise search results. However, one notable gap is the absence of a wireframe for the actual tutorial page, which could leave users without a clear understanding of what to expect. Additionally, some wireframes contained jargon that might confuse potential users. If users are able to navigate the search function, they would be presented with a list of tutorials relevant to their queries, but clarity in the design and terminology used is essential to ensure a smooth user experience. Addressing these issues will be critical in enhancing usability and helping users effectively engage with the application.
 
 ## Conclusions
 
