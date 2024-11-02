@@ -28,8 +28,8 @@ The results recommend that we do the following revisions:
 ## Caveats
 
 With this project there were various caveats encountered that avoided the analyses from being a more accurate representation of the target audience. Some of which that are encountered are:
-The audience was not analyzed in this study: Since the target audience is not acknowledged such as taking data such as taking surveys we do not have the appropriate understanding if the needs of the target audience has been satisfied.
-The analysis was not done by a professional in Usability Design: The analyses were done by students in an undergraduate course for usability design. Details such as biases may not be mitigated with the lack of experience.
-These analyses were done by the students acting as users: With the lack of experience, the results for analyses such as the cognitive walkthrough can result in faulty data. This would then not be appropriate information to use.
-Data used are not used for the actual project: For testing the project, the information would not be the same information that would be used when the code is deployed. What is used currently is a placeholder and does not represent to the users testing the code how the application works when in production.
+- The audience was not analyzed in this study: Since the target audience is not acknowledged such as taking data such as taking surveys we do not have the appropriate understanding if the needs of the target audience has been satisfied.
+- The analysis was not done by a professional in Usability Design: The analyses were done by students in an undergraduate course for usability design. Details such as biases may not be mitigated with the lack of experience.
+- These analyses were done by the students acting as users: With the lack of experience, the results for analyses such as the cognitive walkthrough can result in faulty data. This would then not be appropriate information to use.
+- Data used are not used for the actual project: For testing the project, the information would not be the same information that would be used when the code is deployed. What is used currently is a placeholder and does not represent to the users testing the code how the application works when in production.
 
