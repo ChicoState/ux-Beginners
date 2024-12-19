@@ -4,7 +4,7 @@ Beginners is a website designed for users who need guides and tutorials for any 
 
 ## UX Team Members
 
-* **[Jared Duron](https://github.com/UsabilityEngineering/ux-journal-jduron1)** - Wrote methods, findings, conclusions and caveats for Phase I
+* **[Jared Duron](https://github.com/UsabilityEngineering/ux-journal-jduron1)** - Wrote methods, findings, conclusions and caveats for Phase I; Wrote introduction and methods and added to findings for Phase III; contributed to some of the wireframe designs; communcated with the SE team regarding their progress and design
 * **[Karl Ventayen](https://github.com/UsabilityEngineering/ux-journal-kventayen)** - Wrote User Stories and Executive Summaries
 * **[Rigoberto Florian](https://github.com/UsabilityEngineering/ux-journal-Winner-Dog)** - Wrote Findings, Conclusions, and Executive Summaries
 
