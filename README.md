@@ -61,4 +61,5 @@ For the final sprint of the Beginners project (Tutorial website), we performed a
 - Navigation confusion, particularly with the back button and guide creation
 - Additional features like account management, favorites lists, and personalized content recommendations.
 
-[Full phase III report](phaseIII/)
+[Full phase III report](phaseIII/) \
+[Phase III Prototype](https://www.figma.com/design/zl5mJD70zZCelQIOnRODDY/ux-Beginners?node-id=67-30&t=FcIyJPzA7hDSdewb-1)
