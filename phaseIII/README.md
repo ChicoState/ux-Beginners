@@ -37,7 +37,9 @@ Link to the Findings: https://docs.google.com/spreadsheets/d/15-6-UPuoonG8hs_8nD
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Many users wanted to interact with other features of the program such as the buttons for the tags or the images for the links. Another suggestion that was recommended was to add a back button so that users are able to navigate back to the previous page from where they came from.
+
+Most of the users thought of the design to be straightforward and in general did not need to be changed. For the task that used the searchbar for navigation the users were able to figure out how to use it. Additionally, most of the users were able to determine that the logo worked as the home button and navigate to the homepage.
 
 ## Caveats
 
