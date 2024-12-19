@@ -33,6 +33,13 @@ This study revealed that the current design is sufficient for the project. Nearl
 - **Task 2:** The pictures were helpful for navgation, but using the logo rather than a back button was not intuative.
 - **Task 3:** Recommendations were to reconsider the fuctionality of the Upload Button and options for including chapter during upload
 
+In addition to the listed qualitative data, the ratings from 1 to 5 where 1 is "very difficult" and 5 is "very easy" of each task from all of the participants shows that the interface is easy to navigate through. Although most of the ratings given were a rating of five, there a few ratings of four. This tells us that there is still room for improvement in our prototype design.
+
+Only one participant didn't complete the first task, but after this, all of the participants were successful in completing their tasks. Notably, none of the participants rated a task below a 4. The average ratings for the difficulty of each of the tasks are
+  - **Task 1:** 4.67 (standard deviation = 0.52)
+  - **Task 2:** 4.67 (standard deviation = 0.52)
+  - **Task 3:** 4.83 (standard deviation = 0.41)
+
 Link to the Findings: https://docs.google.com/spreadsheets/d/15-6-UPuoonG8hs_8nDGzAU37bqzfmfp767jCrEXyKWg/edit?gid=0#gid=0
 
 ## Conclusions
