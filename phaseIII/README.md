@@ -33,10 +33,12 @@ This study revealed that the current design is sufficient for the project. Nearl
 - **Task 2:** The pictures were helpful for navgation, but using the logo rather than a back button was not intuative.
 - **Task 3:** Recommendations were to reconsider the fuctionality of the Upload Button and options for including chapter during upload
 
+Link to the Findings: https://docs.google.com/spreadsheets/d/15-6-UPuoonG8hs_8nDGzAU37bqzfmfp767jCrEXyKWg/edit?gid=0#gid=0
+
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+All of the participants are college students in a Usability Engineering course. This means that they are most likely more proficient in their ability to use a computer. Additionally, the program that was used for the demonstration did not allow users to input text. Since our product uses that information to do a search we were not able to see if our users are able to navigate the search fuctionallity of the product.
