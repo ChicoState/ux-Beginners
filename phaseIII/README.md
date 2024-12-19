@@ -28,7 +28,10 @@ Our overall approach to the study was to focus on gathering formative data to ge
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+This study revealed that the current design is sufficient for the project. Nearly all of the tasks were completed by the test users. The following were outstanding details for the users:
+- **Task 1:** The design was straightforward, but the users did want to interact with the images and the tags.
+- **Task 2:** The pictures were helpful for navgation, but using the logo rather than a back button was not intuative.
+- **Task 3:** Recommendations were to reconsider the fuctionality of the Upload Button and options for including chapter during upload
 
 ## Conclusions
 
