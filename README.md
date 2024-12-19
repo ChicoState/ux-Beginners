@@ -49,9 +49,16 @@ For the second sprint of the Beginners project (Tutorial website), we created wi
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+For the final sprint of the Beginners project (Tutorial website), we performed a usability test, which highlighted our advantages and shortcomings against other competitors.
+
+**Strengths**
+- Easy to navigate, with most tasks rated as "easy" or "very easy"
+- Clear visual design, with helpful images and an intuitive search feature
+- Content organization was well-received for its simplicity and structure
+
+**Areas for Improvement**
+- Interactivity issues, such as non-functional features hindered the experience
+- Navigation confusion, particularly with the back button and guide creation
+- Additional features like account management, favorites lists, and personalized content recommendations.
 
 [Full phase III report](phaseIII/)
