@@ -37,9 +37,19 @@ Link to the Findings: https://docs.google.com/spreadsheets/d/15-6-UPuoonG8hs_8nD
 
 ## Conclusions
 
-Many users wanted to interact with other features of the program such as the buttons for the tags or the images for the links. Another suggestion that was recommended was to add a back button so that users are able to navigate back to the previous page from where they came from.
+This test revealed valuable insights into both the strengths and areas for improvement of the design. Participants provided feedback across multiple facets, including ease of use, task completion, interface organization, and desired features. These features include:
+  1. Simplicity: Overall, participants found the interface simple and easy to navigate, and they rated the tasks as either “very easy” or “easy,” with minimal obstacles in completing the tasks.
+  2. Search: The search functionality worked as expected for most users, with many commenting positively on its simplicity and effectiveness.
+  3. Organization: The organization of content seemed logical and navigable. The layout has similarities to other educational platforms, making the prototype easier to understand.
 
-Most of the users thought of the design to be straightforward and in general did not need to be changed. For the task that used the searchbar for navigation the users were able to figure out how to use it. Additionally, most of the users were able to determine that the logo worked as the home button and navigate to the homepage.
+There were a couple of areas that did need improvement, such as:
+  1. Interactivity Issues: A significant amount of feedback centered around the lack of interactivity with visual elements. Images (such as video thumbnails) and features like the "Recently Seen" section were not functional and accessing/selecting certain features, like the filters, detract from the overall experience.
+  2. Navigation Confusion: While the overall design was simple, there were instances where users got stuck, especially when trying to navigate through more complex tasks like creating a new guide.
+
+We were also given recommendations of new features we can as:
+  1. Personalization: Features such as a favorites list, a record of completed courses, and personalized content recommendations, allow users to feel more in control of their learning experience and ensure that content recommendations align with their preferences.
+  2. Content Structure: Adding clearer content navigation, such as adding chapters or progress indicators for guides, allows track progression and a better understanding of how to move through the material in a more organized manner.
+  3. Button/Feature Clarity: Users have asked to make similar buttons distinguishable (like the "Upload Video" and "Create Guide" buttons) and make certain functions, such as the back button and "Exit" buttons, more visible and intuitive.
 
 ## Caveats
 
